@@ -10,7 +10,7 @@ while ans:
     #Allows user to type question
     question = input("Ask the magic 8 ball a question: (press enter to quit) ")
     
-    answers = random.randint(1,8)
+    answers = random.randint(1,7)
     
     #If question is blank then quit program. 
     if question == "":
@@ -30,10 +30,8 @@ while ans:
     elif answers == 4:
         print("Ask again later")
     elif answers == 5:
-        print("Concentrate and ask again")
+        print("My sources say no")
     elif answers == 6:
         print("Reply hazy, try again")
     elif answers == 7:
-        print("My reply is no")
-    elif answers == 8:
-        print("My sources say no")
+        print("My reply is no")    
