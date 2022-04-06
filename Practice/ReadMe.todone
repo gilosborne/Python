@@ -1,0 +1,17 @@
+# Anaconda Distro + PyCharm
+- https://anaconda.org/gilosborne/dashboard
+- https://www.anaconda.com/distribution/
+- https://www.jetbrains.com/pycharm/promo/anaconda/
+
+# Conda - Anaconda package manager
+- List of all packages - "conda list"
+
+# Packages
+DataScience:
+- Pandas - data manipulate and analyse
+- numpy - columns and rows support
+- matplotlib - visualize data
+
+# Data
+- Bitcoin - https://api.bitcoincharts.com/v1/csv/
+
